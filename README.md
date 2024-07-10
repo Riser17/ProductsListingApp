@@ -13,7 +13,7 @@ A React Native application for managing products, with phone number authenticati
 
 ## Screenshot and Previews
 
-<img src="https://github.com/Riser17/ProductsListingApp/assets/91198103/fc510583-31ac-4279-86bc-23622e1e877c" width="500" height="500">
+<img src="https://github.com/Riser17/ProductsListingApp/assets/91198103/fc510583-31ac-4279-86bc-23622e1e877c" width="350" height="550">
 
 
 ## Installation
