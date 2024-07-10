@@ -12,7 +12,9 @@ A React Native application for managing products, with phone number authenticati
 
 
 ## Screenshot and Previews
-![Simulator Screenshot - iPhone 15 - 2024-07-10 at 23 12 20](https://github.com/Riser17/ProductsListingApp/assets/91198103/fc510583-31ac-4279-86bc-23622e1e877c)
+
+<img src="https://github.com/Riser17/ProductsListingApp/assets/91198103/fc510583-31ac-4279-86bc-23622e1e877c" width="300" height="500">
+
 
 ## Installation
 
